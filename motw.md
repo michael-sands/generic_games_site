@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Monster of the Week
 permalink: /motw/
 ---
+![Monster of the Week](../images/MOTW-Page-Header.jpg)
 
 *There are monsters out there.*
 
@@ -30,49 +30,12 @@ You can get a taste for the game by looking at the hunter playbooks in the files
 
 Buying Monster of the Week
 -----------------------
-<p>Monster of the Week shipped anywhere in the world (plus PDF edition): USD $20 + $18.00 shipping.
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="NFMB9V6SP2ZDU">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form></p>
 
-<p>Order Monster of the Week shipped within New Zealand only (plus PDF edition): NZ $25 + $5 shipping.
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="KW9G9WPYNJQM2">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form></p>
-
-<p>Order Monster of the Week: PDF edition: USD $10
-Note: PDF fulfilment is a manual process: it may take up to 24 hours to set up.
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="9JL4WQM2AK5XJ">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form></p>
-
-Alternatively, you can get the PDF from RPGNow. This has the advantage of being an instant download. [![DriveThruRPG link](http://rpg.drivethrustuff.com/themes/dtrpg/images/banners/bannerbutton-dtrpg.gif)](http://rpg.drivethrustuff.com/product/108308/Monster-of-the-Week)
-
-You can also buy a print copy Monster of the Week from lulu.com. The base price is the same (USD $20), but shipping is probably cheaper for most of the world.
-
-* Lulu link
-
-Monster of the Week Shirts
---------------------------
-You can get some of the Monster of the Week art on shirts at my spreadshirt store.
 
 More Monster Hunters
 --------------------
 You can get extra monster hunter playbooks for pay-what-you-want on drivethrurpg.
 [![DriveThruRPG link](http://rpg.drivethrustuff.com/themes/dtrpg/images/banners/bannerbutton-dtrpg.gif)](http://rpg.drivethrustuff.com/product/130278/Monster-of-the-Week-Reinforcements)
-
-PDF to Print Upgrade
---------------------
-If you already bought the PDF edition and would like to get a print copy, you can upgrade for the price difference. Send me an email to arrange it.
 
 Other Languages
 ---------------
