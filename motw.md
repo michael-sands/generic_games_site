@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Monster of the Week
 permalink: /motw/
 ---
 ![Monster of the Week](../images/MOTW-Page-Header.jpg)
@@ -24,22 +25,25 @@ The one sure thing is you aren't gonna go back to your old, safe life.
 
 What's Going On?
 ----------------
-Monster of the Week is an action-horror roleplaying game.
+_Monster of the Week_ is an action-horror roleplaying game about hunting down evil monsters.
 
-You can get a taste for the game by looking at the hunter playbooks in the files section.
+You can get a taste of the game by looking at the hunter playbooks in the files section.
 
-Buying Monster of the Week
+Buying _Monster of the Week_
 -----------------------
+You can get the [book and PDF direct from Evil Hat](https://www.evilhat.com/store/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Monster+of+the+Week&x=0&y=0).
 
+The PDF is [available at DriveThruRPG](http://drivethrurpg.com/product/143518/Monster-of-the-Week?affiliate_id=44653).
 
-More Monster Hunters
+More Stuff!
 --------------------
-You can get extra monster hunter playbooks for pay-what-you-want on drivethrurpg.
-[![DriveThruRPG link](http://rpg.drivethrustuff.com/themes/dtrpg/images/banners/bannerbutton-dtrpg.gif)](http://rpg.drivethrustuff.com/product/130278/Monster-of-the-Week-Reinforcements)
+You can get [extra monster hunter playbooks as a pay-what-you-want bundle on DriveThruRPG](http://rpg.drivethrustuff.com/product/130278/Monster-of-the-Week-Reinforcements?affiliate_id=44653)
+
+You can also grab [_The Meddling Kids In: Too Many Draculas!_](http://drivethrurpg.com/product/141243/The-Meddling-Kids-In-Too-Many-Draculas?affiliate_id=44653) which is a comedy mystery suited to a one-shot game or as a "comedy episode" in an ongoing game.
 
 Other Languages
 ---------------
-There is an Italian translation by Narrativa: [Il Mostro della Settimana](http://www.narrattiva.it/giochi/il-mostro-della-settimana).
+There is an Italian translation by Narrativa: [_Il Mostro della Settimana_](http://www.narrattiva.it/giochi/il-mostro-della-settimana).
 
 Reviews
 -------
@@ -69,11 +73,9 @@ http://jankcast.com/archives/2046)
 In Italian:
 -----------
 
-http://elementifiniti.blogspot.it/2013/07/riassunto-dei-post-dellufficio-stranezze.html
-
-http://gdroggi.blogspot.it/2012/08/recensione-monster-of-week.html
-
-http://www.gentechegioca.it/smf/index.php/topic,7867.0.html
+[Riassunto dei post dell'Ufficio Stranezze](http://elementifiniti.blogspot.it/2013/07/riassunto-dei-post-dellufficio-stranezze.html)
+[Review](http://gdroggi.blogspot.it/2012/08/recensione-monster-of-week.html)
+[Lake Charles, Louisiana actual play report](http://www.gentechegioca.it/smf/index.php/topic,7867.0.html)
 
 FAQ
 ---
@@ -84,23 +86,7 @@ FAQ
 
 * Q: Where can I get a copy of the handouts?
 
-  A: Click "Files" on the menu to the left.
-
-* Q: I bought the Lulu edition of the game and would like the PDF edition as well. Can I get it?
-
-  A: Yes, send me an email with your Lulu order number and I'll send you the download links.
-
-* Q: Can I get a copy of the handouts in my own language?
-
-  A: If that language is French, then you can. Nicolas Ronvel has translated them for you, and you can find them at his blog.
-
-* Q: There are more hunter playbooks?
-
-  A: Yes, there's a bunch! You can get them:
-
-  * most of them are available for pay-what-you-want on drivethrurpg.
-  * the Luchador (by Reid San Filippo), went out with orders from the first print run. This is a monster-fighting lucha libre wrestler, in the style of El Santo. It's available (with a few others by Reid) at nerdwerd's playbook repository.
-  * the Action Scientist, is available if you run (or play) a *Monster of the Week* game at a convention. It's inspired by Atomic Robo, and will add some science-powered mayhem to your mystery. Drop me a line, if you have and I'll get the PDF to you.
+  A: Hit "Files" on the menu.
 
 
 Errata (first edition)
