@@ -3,7 +3,7 @@ layout: page
 title: Monster of the Week
 permalink: /motw/
 ---
-![Monster of the Week](../images/MOTW-Page-Header.jpg)
+![Monster of the Week](/images/MOTW-Page-Header.jpg)
 
 *There are monsters out there.*
 
@@ -31,12 +31,14 @@ You can get a taste of the game by looking at the hunter playbooks in the files 
 
 Buying _Monster of the Week_
 -----------------------
-You can get the [book and PDF direct from Evil Hat](https://www.evilhat.com/store/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Monster+of+the+Week&x=0&y=0).
+You can get the [book and PDF direct from Evil Hat](https://www.evilhat.com/store/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Monster+of+the+Week&x=0&y=0), plus it may be found in game stores all over the place.
 
 The PDF is [available at DriveThruRPG](http://drivethrurpg.com/product/143518/Monster-of-the-Week?affiliate_id=44653).
 
 More Stuff!
 --------------------
+If you want to talk about stuff, check out the [Monster of the Week Roadhouse G+ community](https://plus.google.com/u/0/communities/110209328442902551212), or on the [Monster of the Week forum](http://apocalypse-world.com/forums/index.php?board=33.0) at apocalypse-world.com.
+
 You can get [extra monster hunter playbooks as a pay-what-you-want bundle on DriveThruRPG](http://rpg.drivethrustuff.com/product/130278/Monster-of-the-Week-Reinforcements?affiliate_id=44653)
 
 You can also grab [_The Meddling Kids In: Too Many Draculas!_](http://drivethrurpg.com/product/141243/The-Meddling-Kids-In-Too-Many-Draculas?affiliate_id=44653) which is a comedy mystery suited to a one-shot game or as a "comedy episode" in an ongoing game.
@@ -93,4 +95,3 @@ Errata (first edition)
 ----------------------
 
 * p61, Hunter Reference Sheet: The text for manipulate someone is not consistent between the discussion in the hunter and keeper sections and the hunter reference sheet. The canonical text change is for the 10+ result for bystanders, which should read: "If you get 10+, then they'll do it for the reason you gave them." There's an updated hunter reference sheet in the files section here.
-
