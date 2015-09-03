@@ -49,6 +49,8 @@ There is an Italian translation by Narrativa: [_Il Mostro della Settimana_](http
 
 Reviews
 -------
+[Mad Adventurers Society review](http://www.madadventurers.com/finding-the-fun-monster-of-the-week/)
+
 [Vampires & death worms](http://rpggeek.com/thread/828155/hunting-vampires-mongolian-death-worms-and-terrors)
 
 [Paper & Plastic Review](http://atoolongurl.blogspot.it/2012/09/review-monster-of-week.html)
