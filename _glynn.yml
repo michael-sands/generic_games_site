@@ -1,0 +1,3 @@
+ftp_host: 'ftp.genericgames.co.nz'
+ftp_dir: '/httpdocs'
+ftp_passive: false
