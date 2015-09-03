@@ -1,18 +1,14 @@
 ---
-layout: default
+layout: page
+title: Older Posts
+permalink: /posts/
 ---
-
 <div class="home">
-
   <div>
-    <a href="motw"><img src="/images/MOTW-Page-Header.jpg"></img></a>
-  </div>
-
-  <div>
-    <h1>News</h1>
+    <h1>All Posts</h1>
 
     <ul class="post-list">
-      {% for post in site.posts limit: 5 %}
+      {% for post in site.posts %}
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
