@@ -39,6 +39,8 @@ More Stuff!
 --------------------
 If you want to talk about stuff, check out the [Monster of the Week Roadhouse G+ community](https://plus.google.com/u/0/communities/110209328442902551212), or on the [Monster of the Week forum](http://apocalypse-world.com/forums/index.php?board=33.0) at apocalypse-world.com.
 
+If you're on twitter, follow [@MotW_rpg](https://twitter.com/MotW_rpg) for news.
+
 You can get [extra monster hunter playbooks as a pay-what-you-want bundle on DriveThruRPG](http://rpg.drivethrustuff.com/product/130278/Monster-of-the-Week-Reinforcements?affiliate_id=44653)
 
 You can also grab [_The Meddling Kids In: Too Many Draculas!_](http://drivethrurpg.com/product/141243/The-Meddling-Kids-In-Too-Many-Draculas?affiliate_id=44653) which is a comedy mystery suited to a one-shot game or as a "comedy episode" in an ongoing game.
