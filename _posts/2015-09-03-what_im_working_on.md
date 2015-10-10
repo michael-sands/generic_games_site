@@ -17,14 +17,18 @@ on age-of-sail naval adventure novels (Patrick O'Brian, C S Forester, Alexander
 Kent, etcetera).
 
 Also in the pile are:
+
 * _Three Dooms_: dawn of civilisation, see if you can make your community thrive.
   Rather heavily inspired by [_The Quiet Year_](http://buriedwithoutceremony.com/the-quiet-year/).
   Originally a very different game chef entry.
+
 * _The Worlds Above & Below_: Roleplaying as yourself drawn into a fantasy world.
   Also originally a game chef entry.
+
 * I have an almost ready _Monster of the Week_ scenario: Zombiefest 1 & 2. If you
   backed my original campaign back in 2011 you will have seen the first one. I've
   slightly revised that and added a sequel.
+
 * Vague thoughts of a _Monster of the Week_ setting book, either focused on bronze
   and iron age monster hunters, or possibly that and one or two other settings as
   well.

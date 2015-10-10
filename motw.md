@@ -48,6 +48,7 @@ You can also grab [_The Meddling Kids In: Too Many Draculas!_](http://drivethrur
 Other Languages
 ---------------
 Portuguese: by Luiz Borges [_Monstro da Semana_](https://monstrodasemana.wordpress.com/).
+
 Italian: by Narrativa: [_Il Mostro della Settimana_](http://www.narrattiva.it/giochi/il-mostro-della-settimana).
 
 Reviews
