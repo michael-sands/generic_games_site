@@ -15,3 +15,7 @@ Monster of the Week
 * [_Monster of the Week_ fanmade playbooks](Fan_Made_Playbooks.zip).
   For classic edition, but usable with revised (just ignore the old experience rules
   in the playbook). The Big Game Hunter, Constructed, and Mad Scientist (all by Reid San Filippo)
+
+Heavy Metal Æons
+----------------
+* [_Heavy Metal Æons_ current playtest draft](https://drive.google.com/open?id=0B5pV27F3R0veOFRZVm1MX21EamM).
