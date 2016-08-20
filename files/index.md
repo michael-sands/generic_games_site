@@ -18,6 +18,9 @@ Monster of the Week
 * [Special moves](special_moves.pdf).
   Special moves that trigger when you spend Luck, for all the official hunter
   playbooks.
+* [More Weirdness](MotW_more_weirdness.pdf).
+  Adjustments to run a game focused on investigating weird phenomena more than
+  hunting down evil monsters.
 
 Heavy Metal Æons
 ----------------
