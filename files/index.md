@@ -3,8 +3,11 @@ layout: page
 title: Files
 permalink: /files/
 ---
-Monster of the Week
--------------------
+## Heavy Metal Æons
+
+* [_Heavy Metal Æons_ current playtest draft](https://drive.google.com/open?id=0B5pV27F3R0veOFRZVm1MX21EamM).
+
+## Monster of the Week
 
 * [_Monster of the Week_ revised files](MotW_Revised_Files.zip).
   Includes playbooks, reference sheets, and my hunter playbook template.  
@@ -22,7 +25,8 @@ Monster of the Week
   Adjustments to run a game focused on investigating weird phenomena more than
   hunting down evil monsters.
 
-Heavy Metal Æons
-----------------
+## Three Dooms
 
-* [_Heavy Metal Æons_ current playtest draft](https://drive.google.com/open?id=0B5pV27F3R0veOFRZVm1MX21EamM).
+* Rulebook
+* History and Lineage sheets
+* Starter town maps
