@@ -15,3 +15,6 @@ I’ll be including my expanded weirdness rules for games that are more _Fringe_
 We would also be interested in (in order of desirability) play advice, art, custom moves and other rules variants, and new hunter classes.
 
 If you have ideas for other material, please write up one short sample mystery or other material (up to 500 words) and email it to me at <michael.sands@genericgames.co.nz> by the 18th of December 2016.
+
+If you have any questions, there's on comment thread on the G+ version of this
+announcement <https://plus.google.com/u/0/+MichaelSands/posts/3kqVuiqqKh2>.
