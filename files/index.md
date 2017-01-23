@@ -27,6 +27,5 @@ permalink: /files/
 
 ## Three Dooms
 
-* Rules and advice
-* [Play Sheets](three_dooms_play_sheets.pdf): Town history and lineage log blanks.
-* Starter town maps
+* [Play Sheets](three_dooms_play_sheets.pdf): Town history, lineage log blanks,
+  character sheets, and starter maps.
