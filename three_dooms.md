@@ -24,6 +24,6 @@ Oracle's mantle.
 
 <!-- [Buy _Three Dooms_](https://www.drivethrurpg.com/product/199119/Three-Dooms)
 as a card deck or print and play PDF. -->
-You can find the handouts and expanded rules in the [_Three Dooms_ files area](/files/#three-dooms).
-The cards include all the rules you need, but the expanded rules has extra advice and
-discussion.
+You can find the [handouts](/files/three_dooms_play_sheets.pdf) and [rules preview](/files/three_dooms_rules.pdf) in the [_Three Dooms_ files area](/files/#three-dooms).
+The rules are part of the card deck, and cover everything you need to play, but
+the purchase additionally includes a PDF with extra advice and explanations.
