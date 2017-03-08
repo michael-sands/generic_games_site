@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/mikesands
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://genericgames.co.nz
+  * I am mikesands (https://keybase.io/mikesands) on keybase.
+  * I have a public key ASC6L0_0RtFBkoMFJDWs5lnRivxYvtY2xeQaIqYf43y5owo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ba2f4ff446d1419283052435ace659d18afc58bed636c5e41a22a61fe37cb9a30a",
+            "host": "keybase.io",
+            "kid": "0120ba2f4ff446d1419283052435ace659d18afc58bed636c5e41a22a61fe37cb9a30a",
+            "uid": "17e8613985784ccaf972e603246d3519",
+            "username": "mikesands"
+        },
+        "service": {
+            "hostname": "genericgames.co.nz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488963967,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488963921,
+        "hash": "ff9072f7d028375ff384be19517e3bedfecb8f10027b9d5eafbb0c5f7f66f5b537f8526337c787e742481c3ad2ce0aa162390506f989c69ef7b83baf6349d3dd",
+        "seqno": 945840
+    },
+    "prev": "a51e16986f228dc805596036c251f7bf54cced5c3b4c4b5dee7bfae4c1b6343a",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgui9P9EbRQZKDBSQ1rOZZ0Yr8WL7WNsXkGiKmH+N8uaMKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmEyZjRmZjQ0NmQxNDE5MjgzMDUyNDM1YWNlNjU5ZDE4YWZjNThiZWQ2MzZjNWU0MWEyMmE2MWZlMzdjYjlhMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmEyZjRmZjQ0NmQxNDE5MjgzMDUyNDM1YWNlNjU5ZDE4YWZjNThiZWQ2MzZjNWU0MWEyMmE2MWZlMzdjYjlhMzBhIiwidWlkIjoiMTdlODYxMzk4NTc4NGNjYWY5NzJlNjAzMjQ2ZDM1MTkiLCJ1c2VybmFtZSI6Im1pa2VzYW5kcyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ2VuZXJpY2dhbWVzLmNvLm56IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4ODk2Mzk2NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg4OTYzOTIxLCJoYXNoIjoiZmY5MDcyZjdkMDI4Mzc1ZmYzODRiZTE5NTE3ZTNiZWRmZWNiOGYxMDAyN2I5ZDVlYWZiYjBjNWY3ZjY2ZjViNTM3Zjg1MjYzMzdjNzg3ZTc0MjQ4MWMzYWQyY2UwYWExNjIzOTA1MDZmOTg5YzY5ZWY3YjgzYmFmNjM0OWQzZGQiLCJzZXFubyI6OTQ1ODQwfSwicHJldiI6ImE1MWUxNjk4NmYyMjhkYzgwNTU5NjAzNmMyNTFmN2JmNTRjY2VkNWMzYjRjNGI1ZGVlN2JmYWU0YzFiNjM0M2EiLCJzZXFubyI6MTMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAlrrPdx6LCoHo51jinWXYF5CibJhcB8pjWlaq6Cduw8zU+GPOo3CmIdv/cntQQumJJbvZCMC9HIY6ouP9ScaVCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGN+rt0Zyv40gxrulLN7ctMAUk3h6jSSLPL465d3vpcoo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikesands
+
+==================================================================
