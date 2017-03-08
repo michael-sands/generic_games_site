@@ -29,5 +29,7 @@ permalink: /files/
 
 * [Play Sheets](three_dooms_play_sheets.pdf): Town history, lineage log blanks,
   character sheets, and starter maps.
-* [Rules Cards Preview](three_dooms_rules.pdf): The rules cards included in the
+* [Preview](three_dooms_preview.pdf): The rules cards and a sample of each event
+  card type.
+* [Rules Cards](three_dooms_rules.pdf): The rules cards included in the
   full game.
