@@ -3,7 +3,7 @@ title: Generic Games
 email: michael.sands@genericgames.co.nz
 description: Games by Michael Sands
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://genericgames.co.nz" # the base hostname & protocol for your site
+url: "https://genericgames.co.nz" # the base hostname & protocol for your site
 twitter_username: GenericGamesNZ
 
 # Build settings
