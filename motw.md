@@ -45,6 +45,8 @@ You can get [extra monster hunter playbooks as a pay-what-you-want bundle on Dri
 
 You can also grab [_The Meddling Kids In: Too Many Draculas!_](http://drivethrurpg.com/product/141243/The-Meddling-Kids-In-Too-Many-Draculas?affiliate_id=44653) which is a comedy mystery suited to a one-shot game or as a "comedy episode" in an ongoing game.
 
+Marek Golonka has written some [mysteries that you can find on DriveThruRPG](https://www.drivethrurpg.com/browse.php?keywords=monster+of+the+week+marek+golonka).
+
 Other Languages
 ---------------
 Portuguese: by Luiz Borges [_Monstro da Semana_](https://monstrodasemana.wordpress.com/).
