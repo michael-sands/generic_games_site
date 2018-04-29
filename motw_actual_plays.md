@@ -19,7 +19,7 @@ Video
 
 [Interpol X](https://www.youtube.com/watch?v=Yzd8hIN2Tz0&list=PLw5f8WuA_WLiCUXKgDGxjRSleAr8QlZMU)
 
-In Italian: [Il Monstro della Settimana Nerds](https://www.youtube.com/playlist?list=PL8v8kar5pSH5ZotZ-Xy8LA558Vt8mAi4C)
+In Italian: [GDR unplugged](https://www.youtube.com/playlist?list=PL8v8kar5pSH5ZotZ-Xy8LA558Vt8mAi4C)
 
 Audio
 -----
