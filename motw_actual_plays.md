@@ -19,8 +19,6 @@ Video
 
 [Interpol X](https://www.youtube.com/watch?v=Yzd8hIN2Tz0&list=PLw5f8WuA_WLiCUXKgDGxjRSleAr8QlZMU)
 
-[RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
-
 In Italian: [GDR unplugged](https://www.youtube.com/playlist?list=PL8v8kar5pSH5ZotZ-Xy8LA558Vt8mAi4C)
 
 In Spanish: [Red Penny Club](https://www.youtube.com/watch?v=XSOSe_ZddhM&list=PLEbrDuHKYV2Rkla3jE7Ib4x9mj-9POgMD)
@@ -38,6 +36,8 @@ Audio
 [Lost Library](https://itunes.apple.com/us/podcast/the-lost-library/id1358744382)
 
 [Sunday Skypers](http://sunday-skypers.podbean.com/category/monster-of-the-week/)
+
+[RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
 
 Text
 ----
