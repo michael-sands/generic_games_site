@@ -69,16 +69,11 @@ Reviews
 
 [DriveThruRPG Review](http://rpg.drivethrustuff.com/product_reviews_info.php?&reviews_id=88303&products_id=108308)
 
-Actual Play Reports
--------------------
-[Play report](http://forums.somethingawful.com/showthread.php?threadid=3501383&pagenumber=10#post407155725)
+Actual Play
+-----------
 
-[Darkening Skies](http://story-games.com/forums/discussion/15731/monster-of-the-week-at-conception
-http://jankcast.com/archives/2046)
+[Actual Play Reports](/motw_actual_plays)
 
-[Play report](http://rpggeek.com/thread/862434/shs-7-42-campaign-part-1-set-up)
-
-[Night of the Living Dead Elvis](http://lostzeppo.blogspot.co.uk/2012/11/monster-of-week-gugacon-one-shot-jersey.html)
 
 In Italian:
 -----------
@@ -103,3 +98,8 @@ Errata (first edition)
 ----------------------
 
 * p61, Hunter Reference Sheet: The text for manipulate someone is not consistent between the discussion in the hunter and keeper sections and the hunter reference sheet. The canonical text change is for the 10+ result for bystanders, which should read: "If you get 10+, then they'll do it for the reason you gave them." There's an updated hunter reference sheet in the files section here.
+
+Errata (revised edition)
+----------------------
+
+* Countdowns: "Dusk" should come after "Sunset" (by definition, which I didn't realise back then). Switch these two elements of your countdowns, so they go *Day*, *Shadows*, *Sunset*, *Dusk*, *Nightfall*, *Midnight*.
