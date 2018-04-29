@@ -31,11 +31,11 @@ Audio
 
 Text
 ----
+[Play by Forum games on RPGGeek](https://rpggeek.com/forum/1208385/monster-week/play-forum)
+
 [Play report](http://forums.somethingawful.com/showthread.php?threadid=3501383&pagenumber=10#post407155725)
 
 [Darkening Skies](http://story-games.com/forums/discussion/15731/monster-of-the-week-at-conception
 http://jankcast.com/archives/2046)
 
 [Play report](http://rpggeek.com/thread/862434/shs-7-42-campaign-part-1-set-up)
-
-[Night of the Living Dead Elvis](http://lostzeppo.blogspot.co.uk/2012/11/monster-of-week-gugacon-one-shot-jersey.html)
