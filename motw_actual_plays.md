@@ -19,6 +19,8 @@ Video
 
 [Interpol X](https://www.youtube.com/watch?v=Yzd8hIN2Tz0&list=PLw5f8WuA_WLiCUXKgDGxjRSleAr8QlZMU)
 
+[RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
+
 In Italian: [GDR unplugged](https://www.youtube.com/playlist?list=PL8v8kar5pSH5ZotZ-Xy8LA558Vt8mAi4C)
 
 Audio
