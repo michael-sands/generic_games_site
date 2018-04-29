@@ -29,6 +29,8 @@ Audio
 
 [Lost Library](https://itunes.apple.com/us/podcast/the-lost-library/id1358744382)
 
+[Sunday Skypers](http://sunday-skypers.podbean.com/category/monster-of-the-week/)
+
 Text
 ----
 [Play by Forum games on RPGGeek](https://rpggeek.com/forum/1208385/monster-week/play-forum)
