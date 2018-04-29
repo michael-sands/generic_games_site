@@ -23,6 +23,8 @@ Video
 
 In Italian: [GDR unplugged](https://www.youtube.com/playlist?list=PL8v8kar5pSH5ZotZ-Xy8LA558Vt8mAi4C)
 
+In Spanish: [Red Penny Club](https://www.youtube.com/watch?v=XSOSe_ZddhM&list=PLEbrDuHKYV2Rkla3jE7Ib4x9mj-9POgMD)
+
 Audio
 -----
 [The Adventure Zone](http://www.maximumfun.org/adventure-zone/setup-adventure-zone-amnesty)
