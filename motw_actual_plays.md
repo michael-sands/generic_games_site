@@ -37,6 +37,8 @@ Audio
 
 [Myth Takes](https://open.spotify.com/show/5LDvlARiOYzuHwxjHY7DoH)
 
+[Table Tales season 1](https://itunes.apple.com/us/podcast/table-tales/id1338113146?mt=2)
+
 [Tumbleson County](https://soundcloud.com/minionworks/sets/troublesome-times-in-tumbleson)
 
 [Unexplored Places](https://unexploredcast.tumblr.com/)
