@@ -15,6 +15,8 @@ Video
 
 [HexMachina](https://www.twitch.tv/videos/366179244)
 
+[The Gauntlet: Halloween _MotW_](https://youtu.be/QeZv6lQ4H88)
+
 [IGoA East Texas University](https://www.youtube.com/watch?v=A-d1UZY-8Z0&list=PLccARXndpwfg-15iNdN2wU0atyh4ZNyH8)
 
 [Luke Green's games](https://www.youtube.com/playlist?list=PL_1EpyP6ogbDitZ5Zep55PLeErcyD2K5b)
