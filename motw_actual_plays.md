@@ -11,6 +11,10 @@ If you've got an actual play you would like linked to, please [contact me](mailt
 
 Video
 -----
+[Scratticus Academy: Last Knights On Earth](https://www.twitch.tv/collections/Hg-a5CbgeRUV4w)
+
+[HexMachina](https://www.twitch.tv/videos/366179244)
+
 [IGoA East Texas University](https://www.youtube.com/watch?v=A-d1UZY-8Z0&list=PLccARXndpwfg-15iNdN2wU0atyh4ZNyH8)
 
 [Luke Green's games](https://www.youtube.com/playlist?list=PL_1EpyP6ogbDitZ5Zep55PLeErcyD2K5b)
@@ -26,6 +30,12 @@ In Spanish: [Red Penny Club](https://www.youtube.com/watch?v=XSOSe_ZddhM&list=PL
 Audio
 -----
 [The Adventure Zone](http://www.maximumfun.org/adventure-zone/setup-adventure-zone-amnesty)
+
+[The Crit Show](https://thecritshowpodcast.com/)
+
+[Shady Hollow](http://welcometoshadyhollow.com/)
+
+[Myth Takes](https://open.spotify.com/show/5LDvlARiOYzuHwxjHY7DoH)
 
 [Tumbleson County](https://soundcloud.com/minionworks/sets/troublesome-times-in-tumbleson)
 
