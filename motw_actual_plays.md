@@ -21,7 +21,7 @@ Video
 
 [KFRR](https://www.youtube.com/watch?v=aRLtHNHUsIU)
 
-[Interpol X](https://www.youtube.com/watch?v=Yzd8hIN2Tz0&list=PLw5f8WuA_WLiCUXKgDGxjRSleAr8QlZMU)
+[Interpol X](http://happyjacks.org/interpolx)
 
 In Italian: [GDR unplugged](https://www.youtube.com/playlist?list=PL8v8kar5pSH5ZotZ-Xy8LA558Vt8mAi4C)
 
