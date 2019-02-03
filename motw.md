@@ -6,7 +6,7 @@ permalink: /motw/
 ![Monster of the Week](/images/MOTW-Page-Header.jpg)
 
 *There are monsters out there.*
-
+    
 Most people don't believe in them, but they're real. Mostly, when someone finds out that monsters are real, that's just before they die.
 
 But some people are mean enough, smart enough, crazy enough, or hurt enough, that they live. And some of those people go and hunt down more.
@@ -100,6 +100,7 @@ Errata (revised edition)
 * **Countdowns**: "Dusk" should come after "Sunset" (by definition, which I didn't realise back then). Switch these two elements of your countdowns, so they go *Day*, *Shadows*, *Sunset*, *Dusk*, *Nightfall*, *Midnight*.
 * **Advanced Improvements**: All hunters should have a single "Get back one used Luck mark" as one of their advanced improvements. The Mundane is unchanged, with two of these in their advanced list.
 * **Crooked weapons** (page 39): The submachinegun and assault rifle should have "area" tags, not "auto."
+* **Hold example** (page 100): The example mentions gaining 3 hold from an **investigate a mystery** result, which is not normally possible. 
 
 Errata (first edition)
 ----------------------
