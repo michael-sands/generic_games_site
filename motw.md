@@ -92,14 +92,16 @@ FAQ
 * Q: Where can I get a copy of the handouts?
 
   A: Hit "Files" on the menu.
-
-
-Errata (first edition)
-----------------------
-
-* p61, Hunter Reference Sheet: The text for manipulate someone is not consistent between the discussion in the hunter and keeper sections and the hunter reference sheet. The canonical text change is for the 10+ result for bystanders, which should read: "If you get 10+, then they'll do it for the reason you gave them." There's an updated hunter reference sheet in the files section here.
+  
 
 Errata (revised edition)
 ----------------------
 
 * Countdowns: "Dusk" should come after "Sunset" (by definition, which I didn't realise back then). Switch these two elements of your countdowns, so they go *Day*, *Shadows*, *Sunset*, *Dusk*, *Nightfall*, *Midnight*.
+* Advanced Improvements: All hunters should have a single "Get back one used Luck mark" as one of their advanced improvements. The Mundane is unchanged, with two of these in their advanced list.
+* Crooked weapons (page 39): The submachinegun and assault rifle should have "area" tags, not "auto."
+
+Errata (first edition)
+----------------------
+
+* page 61, Hunter Reference Sheet: The text for manipulate someone is not consistent between the discussion in the hunter and keeper sections and the hunter reference sheet. The canonical text change is for the 10+ result for bystanders, which should read: "If you get 10+, then they'll do it for the reason you gave them." There's an updated hunter reference sheet in the files section here.
