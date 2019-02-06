@@ -35,6 +35,8 @@ You can get the [book and PDF direct from Evil Hat](https://www.evilhat.com/stor
 
 The PDF is [available at DriveThruRPG](http://drivethrurpg.com/product/143518/Monster-of-the-Week?affiliate_id=44653).
 
+Coming soon: [Tome of Mysteries](https://www.evilhat.com/home/monster-of-the-week-tome-of-mysteries/)
+
 More Stuff!
 --------------------
 If you want to talk about stuff, check out the [Monster of the Week Roadhouse G+ community](https://plus.google.com/u/0/communities/110209328442902551212), or on the [Monster of the Week forum](http://apocalypse-world.com/forums/index.php?board=33.0) at apocalypse-world.com.
