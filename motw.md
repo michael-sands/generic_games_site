@@ -39,7 +39,7 @@ Coming soon: [Tome of Mysteries](https://www.evilhat.com/home/monster-of-the-wee
 
 More Stuff!
 --------------------
-If you want to talk about stuff, check out the [Monster of the Week Roadhouse G+ community](https://plus.google.com/u/0/communities/110209328442902551212), or on the [Monster of the Week forum](http://apocalypse-world.com/forums/index.php?board=33.0) at apocalypse-world.com.
+If you want to talk about stuff, check out the [Monster of the Week Roadhouse MeWe community](https://mewe.com/join/monster_of_the_week_roadhouse), or the [Monster of the Week forum](http://apocalypse-world.com/forums/index.php?board=33.0) at apocalypse-world.com.
 
 If you're on twitter, follow [@MotW_rpg](https://twitter.com/MotW_rpg) for news.
 
