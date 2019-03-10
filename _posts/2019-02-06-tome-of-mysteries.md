@@ -4,7 +4,7 @@ title:  "Tome of Mysteries"
 date:   "2019-02-06 14:30:00 +13:00"
 categories: update
 ---
-![Tome of Mysteries](https://www.evilhat.com/home/wp-content/uploads/2019/01/Monster-of-the-Week-Tome-of-Mysteries-Header.jpg)
+![Tome of Mysteries](images/tom_header.jpg)
 
 Keepers & hunters! It is rumour no more... The Tome of Mysteries has been found and you will be able to acquire your own copy of these ancient secrets in May. 
 

@@ -35,11 +35,15 @@ You can get the [book and PDF direct from Evil Hat](https://www.evilhat.com/stor
 
 The PDF is [available at DriveThruRPG](http://drivethrurpg.com/product/143518/Monster-of-the-Week?affiliate_id=44653).
 
-Coming soon: [Tome of Mysteries](https://www.evilhat.com/home/monster-of-the-week-tome-of-mysteries/)
+The _Tome of Mysteries_
+---------------------
+Available for preorder now! [Tome of Mysteries order page](https://www.evilhat.com/home/monster-of-the-week-tome-of-mysteries/).
+
+[More info](/tome_of_mysteries).
 
 More Stuff!
 --------------------
-If you want to talk about stuff, check out the [Monster of the Week Roadhouse MeWe community](https://mewe.com/join/monster_of_the_week_roadhouse), or the [Monster of the Week forum](http://apocalypse-world.com/forums/index.php?board=33.0) at apocalypse-world.com.
+If you want to talk about stuff, check out the [Monster of the Week Roadhouse MeWe community](https://mewe.com/join/monster_of_the_week_roadhouse), the [Monster of the Week subreddit](https://www.reddit.com/r/monsteroftheweek/), or the [Monster of the Week forum](http://apocalypse-world.com/forums/index.php?board=33.0) at apocalypse-world.com.
 
 If you're on twitter, follow [@MotW_rpg](https://twitter.com/MotW_rpg) for news.
 
