@@ -37,7 +37,7 @@ The PDF is [available at DriveThruRPG](http://drivethrurpg.com/product/143518/Mo
 
 The _Tome of Mysteries_
 ---------------------
-Available for preorder now! [Tome of Mysteries order page](https://www.evilhat.com/home/monster-of-the-week-tome-of-mysteries/).
+Available now! [Tome of Mysteries at Evil Hat Productions](https://www.evilhat.com/home/monster-of-the-week-tome-of-mysteries/) or [PDF at driveThruRPG]
 
 [More info](/tome_of_mysteries).
 
