@@ -11,6 +11,8 @@ If you've got an actual play you would like linked to, please [contact me](mailt
 
 Video
 -----
+[Queuetimes](https://queuetimes.com/tag/monster-of-the-week/)
+
 [Scratticus Academy: Last Knights On Earth](https://www.twitch.tv/collections/Hg-a5CbgeRUV4w)
 
 [HexMachina](https://www.twitch.tv/videos/366179244)
@@ -52,6 +54,8 @@ Audio
 [Sunday Skypers](http://sunday-skypers.podbean.com/category/monster-of-the-week/)
 
 [RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
+
+[The Group Project](https://thegroupproject.com/)
 
 Text
 ----
