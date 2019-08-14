@@ -23,8 +23,7 @@ guide the passage of time until the next event, when the next person takes the
 Oracle's mantle.
 
 [Buy _Three Dooms_](https://www.drivethrurpg.com/product/199119/Three-Dooms)
-as a card deck or print and play PDF, or get the PDF only at itch.io: 
-<iframe src="https://itch.io/embed/459792" width="552" height="167" frameborder="0"></iframe>
+as a card deck or print and play PDF, or get the [PDF only at itch.io](https://genericgames.itch.io/three-dooms)
 
 You can find the [handouts](/files/three_dooms_play_sheets.pdf) and [preview](/files/three_dooms_preview.pdf) in the [_Three Dooms_ files area](/files/#three-dooms).
 The rules are part of the card deck, and cover everything you need to play<!--, but
