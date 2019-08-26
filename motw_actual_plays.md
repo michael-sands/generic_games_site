@@ -33,6 +33,7 @@ Audio
 * [Myth Takes](https://open.spotify.com/show/5LDvlARiOYzuHwxjHY7DoH)
 * [RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
 * [Shady Hollow](http://welcometoshadyhollow.com/)
+* [Staying Weird](https://soundcloud.com/staying-weird/)
 * [Sunday Skypers](http://sunday-skypers.podbean.com/category/monster-of-the-week/)
 * [Table Tales season 1](https://itunes.apple.com/us/podcast/table-tales/id1338113146?mt=2)
 * [Tumbleson County](https://soundcloud.com/minionworks/sets/troublesome-times-in-tumbleson)
