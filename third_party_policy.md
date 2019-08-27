@@ -28,3 +28,4 @@ Last updated: 27 August 2019.
 # FAQ
 * Here's where to email me with questions about licensing or this policy: <mike@genericgames.co.nz>.
 * If you want to create a mystery or new hunter playbook for _Monster of the Week_, go ahead! Just include the attribution message (section 3.1) and make sure you follow the policy for reproducing text (section 2).
+* For personal use, do what you like. The policy is for when you want to share your work beyond your own game group.
