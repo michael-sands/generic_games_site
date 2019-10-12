@@ -36,6 +36,7 @@ Audio
 * [Staying Weird](https://soundcloud.com/staying-weird/)
 * [Sunday Skypers](http://sunday-skypers.podbean.com/category/monster-of-the-week/)
 * [Table Tales season 1](https://itunes.apple.com/us/podcast/table-tales/id1338113146?mt=2)
+* [Thornvale](https://anchor.fm/thornvale/)
 * [Tumbleson County](https://soundcloud.com/minionworks/sets/troublesome-times-in-tumbleson)
 * [Unexplored Places](https://unexploredcast.tumblr.com/)
 * [Wayward Fans](http://www.thewaywardfans.com/podcasts/?tag=Monster+of+the+Week)
