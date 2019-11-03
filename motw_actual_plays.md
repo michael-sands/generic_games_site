@@ -29,8 +29,10 @@ Audio
 * [The Crit Show](https://thecritshowpodcast.com/)
 * [The Group Project](https://thegroupproject.com/)
 * [Lost Library](https://itunes.apple.com/us/podcast/the-lost-library/id1358744382)
+* [Monsters & Microphones](https://anchor.fm/monstersandmicrophones)
 * [Monster Hour](https://podcasts.apple.com/us/podcast/monster-hour/id1473549676?fbclid=IwAR3SLdw5BEsat3X8FQgwzORXb2_3iOeaAv7R-x0lg9Y6MtZ57u6735zNmJM)
 * [Myth Takes](https://open.spotify.com/show/5LDvlARiOYzuHwxjHY7DoH)
+* [Out of the Forest](https://anchor.fm/theforestcast)
 * [RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
 * [Shady Hollow](http://welcometoshadyhollow.com/)
 * [Staying Weird](https://soundcloud.com/staying-weird/)
@@ -40,6 +42,7 @@ Audio
 * [Tumbleson County](https://soundcloud.com/minionworks/sets/troublesome-times-in-tumbleson)
 * [Unexplored Places](https://unexploredcast.tumblr.com/)
 * [Wayward Fans](http://www.thewaywardfans.com/podcasts/?tag=Monster+of+the+Week)
+* [WNRN Presents: Monster of the Week](https://soundcloud.com/wnrn/sets/wnrn-monster-of-the-week)
 
 Text
 ----
