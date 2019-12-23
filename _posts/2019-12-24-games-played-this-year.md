@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Games I Played This Year"
+date:   "2019-12-24 10:00:00 +13:00"
+categories: update
+---
+As we cruise in towards the end of the year, I thought I'd write up what I've been playing this year and let you know what I think about these games.
+
+The year began, as is usual, with some games to run through before taking them to [games on demand at Kapcon](http://kapcon.org.nz/?q=node/725). That was some [Forbidden Lands](https://frialigan.se/en/games/forbidden-lands/) and [The King Machine](https://vsca.itch.io/the-king-machine) with the Monday crew. Speaking of which, you should try to come along to Kapcon if you're  within reach of Wellington, New Zealand on the 18th & 19th of January.
+
+I've also been playing a game with some colleagues at Wednesday lunchtimes, when we can all fit in the time. That's mostly been [The Nightmares Underneath](https://www.drivethrurpg.com/product/196352/The-Nightmares-Underneath-Free-Edition) which is an excellent OSR game with a great setting and a huge pile of cool stuff in there. A second edition recently came out and I fully recommend it for anyone interested in dungeon crawling adventures.
+
+The big event of January was Kapcon, where I organised the games on demand event. Although I prepared lots of games, I didn't end up running any of them which was a bit odd. I got to play some [Night Witches](https://bullypulpitgames.com/games/night-witches/), [Fall of Magic](https://heartofthedeernicorn.com/product/fall-of-magic-scroll-edition/), [Dusk City Outlaws](https://scratchpadpublishing.com/dco-info), [Root](https://ledergames.com/root/) (the boardgame), and then three sessions of Forbidden Lands (which really stood out for the connected sessions with previous events remaining 'in play'). Night Witches and Fall of Magic are great, and as expected both sessions were fun. I enjoyed Dusk City Outlaws for its different take on fantasy heists (in comparison to Blades in the Dark, which I had played some of the year before).
+
+After that, the Monday crew got back into our [Curse of Strahd](https://dnd.wizards.com/products/tabletop-games/rpg-products/curse-strahd) game. That took us most of the year to complete, and it was pretty fun although I found D&D a bit too much once they hit level seven or so. I simply can't track as much information as is needed once that number of special abilities are in play, I think. We finally finished that up in November.
+
+I also played a little [Microscope](http://www.lamemage.com/microscope/) in some of our workplace lunchtime games, which I really appreciated because I'd never actually played it yet, after hearing so much good stuff over many years. It met my (high) expectations!
+
+I also enjoyed [Thousand Year Old Vampire](https://tyov.backerkit.com/hosted_preorders), a solo journalling game about a vampire's long unlife. Really cool, recommended.
+
+Next was some playtests of [The Natural Philosophers](https://genericgames.itch.io/the-natural-philosophers), my experiment in a journalling game of my own. I also ran a demo game of [Monster of the Week](/motw) the local game store [Caffeinated Dragon](https://www.facebook.com/CaffeinatedDragon/), which was quite fun (it had been a while). I also did a guest spot on the [Critshow's ongoing game](https://thecritshowpodcast.com/) which was a blast.
+
+My game of the year for me was released next - that's [Band of Blades](https://www.evilhat.com/home/band-of-blades/), which is phenomenally good. We started playing that as a backup game when D&D wasn't an option on Mondays, and now we're getting well into the campaign as our next main game (after which it will be back to The One Ring and Darkening of Mirkwood, most likely). Band of Blades takes all the good stuff from Blades in the Dark, covers it in a setting I am finding more to my taste, and adds enough new rules concepts to fit that that it just sings in play. Great, grim, military fantasy with a desperate retreat that you may not survive. 
+
+I've also played a fair number of boardgames this year. Highlights for me have been [Betrayal Legacy](https://avalonhill.wizards.com/avalon-hill-betrayal-legacy) (which we completed; a great experience all round and up there with Pandemic as best legacy games), [Risk Legacy](https://avalonhill.wizards.com/games/risk/risk-legacy) (which we have not got back to for a while, due to scheduling), [Wingspan](https://stonemaiergames.com/games/wingspan/) (because I like birds), [Hellboy](https://www.manticgames.com/games/hellboy/) (which does a great job of getting a Hellboy-style story to play out, plus I enjoyed painting up all the minis), [Cuba Libre](https://www.gmtgames.com/p-620-cuba-libre-3rd-printing.aspx) (which I found justified all the buzz around GMT's COIN games), [Tapestry](https://stonemaiergames.com/games/tapestry/) (the way it plays out is always exciting for me), and we've also started playing the [Scythe: Rise of Fenris](https://stonemaiergames.com/games/scythe/scythe-the-rise-of-fenris/) campaign (also a lot of fun, looking forward to our remaining three games).
+
+Hopefully that's of interest to folks. I recommend all the games mentioned here, it's been all good this year. Even my problems with higher level D&D didn't stop Curse of Strahd being a fun campaign to play through.

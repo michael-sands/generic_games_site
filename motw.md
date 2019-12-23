@@ -75,8 +75,8 @@ Reviews
 
 [DriveThruRPG Review](http://rpg.drivethrustuff.com/product_reviews_info.php?&reviews_id=88303&products_id=108308)
 
-Actual Play
------------
+Actual Play & Streams
+---------------------
 
 [Actual Play Reports](/motw_actual_plays)
 
