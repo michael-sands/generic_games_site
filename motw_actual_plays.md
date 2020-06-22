@@ -29,6 +29,7 @@ Audio
 * [A Horror Borealis](http://oneshotpodcast.com/actual-play/a-horror-borealis/)
 * [All My Hexes](https://allmyhexes.simplecast.com/)
 * [The Crit Show](https://thecritshowpodcast.com/)
+* [Expeditions of the Extranormal](https://theumbraltheater.podbean.com/)
 * [The Group Project](https://thegroupproject.com/)
 * [Lost Library](https://itunes.apple.com/us/podcast/the-lost-library/id1358744382)
 * [Monsters & Microphones](https://anchor.fm/monstersandmicrophones)
