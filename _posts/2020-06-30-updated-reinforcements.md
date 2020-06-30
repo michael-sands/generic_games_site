@@ -12,3 +12,5 @@ If you already purchased the [bundle on drivethruRPG](https://www.drivethrurpg.c
 The Summoned still needs a little more work, so it's not updated yet. 
 
 And the Spooktacular will be coming soon, as a separate download (I'm just waiting on art for that one).
+
+Edit to add: There's also a [revised version of the Constructed](https://genericgames.co.nz/files/constructed_2020.pdf) on the files page, which thanks to Reid's generosity will remain a free download.
