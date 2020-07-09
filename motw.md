@@ -47,9 +47,13 @@ If you want to talk about stuff, check out the [Monster of the Week Roadhouse Me
 
 If you're on twitter, follow [@MotW_rpg](https://twitter.com/MotW_rpg) for news.
 
-You can get [extra monster hunter playbooks as a pay-what-you-want bundle on DriveThruRPG](http://rpg.drivethrustuff.com/product/130278/Monster-of-the-Week-Reinforcements?affiliate_id=44653)
+You can get extra monster hunter playbooks as a pay-what-you-want bundle [on itch.io](https://genericgames.itch.io/monster-of-the-week-reinforcements) or [on DriveThruRPG](http://rpg.drivethrustuff.com/product/130278/Monster-of-the-Week-Reinforcements?affiliate_id=44653). 
 
-You can also grab [_The Meddling Kids In: Too Many Draculas!_](http://drivethrurpg.com/product/141243/The-Meddling-Kids-In-Too-Many-Draculas?affiliate_id=44653) which is a comedy mystery suited to a one-shot game or as a "comedy episode" in an ongoing game.
+The Spooktacular hunter playbook is a seperate purchase, also available on [itch.io](https://genericgames.itch.io/the-spooktacular) or [drivethruRPG](https://www.drivethrurpg.com/product/319973/The-Spooktacular).
+
+_The Meddling Kids In: Too Many Draculas!_ [on itch.io](https://genericgames.itch.io/the-meddling-kids-in-too-many-draculas) or [on drivethruRPG](http://drivethrurpg.com/product/141243/The-Meddling-Kids-In-Too-Many-Draculas?affiliate_id=44653) which is a comedy mystery suited to a one-shot game or as a "comedy episode" in an ongoing game.
+
+_Zombiefest Double Feature_ [on itch.io](https://genericgames.itch.io/zombiefest-double-feature) or [on drivethruRPG](https://www.drivethrurpg.com/product/287048/Zombiefest-Double-Feature) contains two  mysteries dealing with undead unpleasantness during a metal festival. 
 
 Marek Golonka has written some [mysteries that you can find on DriveThruRPG](https://www.drivethrurpg.com/browse.php?keywords=monster+of+the+week+marek+golonka).
 
