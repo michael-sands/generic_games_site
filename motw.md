@@ -111,6 +111,7 @@ Errata (revised edition)
 * **Advanced Improvements**: All hunters should have a single "Get back one used Luck mark" as one of their advanced improvements. The Mundane is unchanged, with two of these in their advanced list.
 * **Crooked weapons** (page 39): The submachinegun and assault rifle should have "area" tags, not "auto."
 * **Hold example** (page 100): The example mentions gaining 3 hold from an **investigate a mystery** result, which is not normally possible. 
+* **Dice roll example** (page 99): There's a typo in the example. 1 + 2 + 5 is 8, not 9. Still a partial success in the example.
 
 Errata (first edition)
 ----------------------
