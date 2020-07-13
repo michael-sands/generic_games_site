@@ -108,6 +108,7 @@ Errata (revised edition)
 ----------------------
 
 * **Countdowns**: "Dusk" should come after "Sunset" (by definition, which I didn't realise back then). Switch these two elements of your countdowns, so they go *Day*, *Shadows*, *Sunset*, *Dusk*, *Nightfall*, *Midnight*.
+* **Looks** (all hunter playbooks): All hunters may write in their own choice as well as the listed options. The lists are not intended to be exclusionary, but inspirational. If you have your own better idea, please use that.
 * **Advanced Improvements**: All hunters should have a single "Get back one used Luck mark" as one of their advanced improvements. The Mundane is unchanged, with two of these in their advanced list.
 * **Crooked weapons** (page 39): The submachinegun and assault rifle should have "area" tags, not "auto."
 * **Hold example** (page 100): The example mentions gaining 3 hold from an **investigate a mystery** result, which is not normally possible. 
