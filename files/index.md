@@ -9,8 +9,7 @@ permalink: /files/
 
 ## Monster of the Week
 
-* [_Monster of the Week_ revised files](MotW_Revised_Files.zip).
-  Includes playbooks, reference sheets, and my hunter playbook template.  
+* [_Monster of the Week_ resources at Evil Hat](https://www.evilhat.com/home/monster-of-the-week-resources/). Includes all the playbooks and reference sheets from the main book and _Tome of Mysteries_.
 * [_Monster of the Week_ revised extra playbooks (2020 edition)](extra_hunters_2020.zip).
   Includes the Exile, Hard Case, Meddling Kid, and Snoop.
 * [_Monster of the Week_ classic files](MotW_Classic_Files.zip).
