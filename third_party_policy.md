@@ -9,7 +9,7 @@ The overall policy is that you should feel free to create something inspired by 
 
 # Generic Games Third Party Works Policy
 
-Last updated: 25 May 2020.
+Last updated: 1 December 2020.
 
 1. **General Policy**
    2. You are allowed to create original works compatible with my texts, for commercial or non-commercial purposes.
@@ -19,13 +19,14 @@ Last updated: 25 May 2020.
    6. Do not attempt to present your work as an official Generic Games or _Monster of the Week_ product.
 1. **Reproducing Text**
    1. You are welcome to quote or use snippets of text that are needed for rules purposes (for example, reproducing the text of a threat type and description in a _Monster of the Week_ mystery). 
-   1. If you wish to quote a larger piece of text (for example, reproducing some paragraphs of advice for a derivative game) that may or may not be acceptable. Please ask permission directly.
+   2. If you wish to quote a larger piece of text (for example, reproducing some paragraphs of advice for a derivative game) that may or may not be acceptable. Please ask permission directly.
 2. **Attribution**
-   2. For compatible works, please include a note like: "For use with with Monster of the Week by Michael Sands."
+   1. For compatible works, please include a note like: "For use with with Monster of the Week by Michael Sands."
    2. For derivative works, please include a note like: "Derived from Monster of the Week by Michael Sands"
-3. **Approved Works**
-   4. For _Monster of the Week_ compatible or derived works, I am happy to give you an official "Approved for use with _Monster of the Week_" logo to include. If you would like to apply, send me an email. I'll need to look over the work and confirm that I'm happy to be associated with it, before you may use the logo. Note: approval will be based on a base level of professional presentation consistent with your plans for the work and lack of problematic content.
-4. **Monster of the Week Copyright Notice**
+4. **Approved Works**
+   1. There was previously a process to get access to a logo that stated you had Generic Games' official approval of your work. This is no longer open. 
+   2. I remain approving of those products that already went through this process and have been granted the approval logo.
+3. **Monster of the Week Copyright Notice**
    1. If your work is compatible with Monster of the Week, please add the following copyright notice: "Monster of the Week is copyrighted by Evil Hat Productions, LLC and Generic Games."
 
 # FAQ
