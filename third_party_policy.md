@@ -9,12 +9,12 @@ The overall policy is that you should feel free to create something inspired by 
 
 # Generic Games Third Party Works Policy
 
-Last updated: 1 December 2020.
+Last updated: 31 December 2020.
 
 1. **General Policy**
    2. You are allowed to create original works compatible with my texts, for commercial or non-commercial purposes.
    3. This only applies to text written by me (Michael Sands), not any parts of my games created by other people (which includes other authors, artists, layouts).
-   4. This does not cover derivative works or translations of a whole text. If that's what you'd like to do, please get in touch with me.
+   4. This does not cover derivative works or translations of a whole text. If that's what you'd like to do, please get in touch with me directly.
    5. A "derivative work" is any work that uses large amounts of my game text either reproduced directly or with only small changes. (For example, if you want to create a roleplaying game "_Alpaca of the Week_" in which the group solves a series of Alpaca-based mysteries, based on _Monster of the Week_, which involves reproducing chunks of the _Monster of the Week_ text without changes). 
    6. Do not attempt to present your work as an official Generic Games or _Monster of the Week_ product.
 1. **Reproducing Text**
