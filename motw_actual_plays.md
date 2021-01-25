@@ -40,6 +40,7 @@ Audio
 * [Roll for Weird](https://www.majesticgoose.com/podcasts/roll-for-weird)
 * [RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
 * [Shady Hollow](http://welcometoshadyhollow.com/)
+* [Shrimp and Crits](https://linktr.ee/shrimpandcrits)
 * [Staying Weird](https://soundcloud.com/staying-weird/)
 * [The Storyteller Squad](https://thestorytellersquad.captivate.fm)
 * [Strangers in the Pines](https://strangers-in-the-pines.captivate.fm/listen)
