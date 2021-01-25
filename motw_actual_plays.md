@@ -37,6 +37,7 @@ Audio
 * [Monster Hour](https://podcasts.apple.com/us/podcast/monster-hour/id1473549676?fbclid=IwAR3SLdw5BEsat3X8FQgwzORXb2_3iOeaAv7R-x0lg9Y6MtZ57u6735zNmJM)
 * [Myth Takes](https://open.spotify.com/show/5LDvlARiOYzuHwxjHY7DoH)
 * [Out of the Forest](https://anchor.fm/theforestcast)
+* [Railsend Mysteries](https://anchor.fm/railsend-mysteries)
 * [Roll for Weird](https://www.majesticgoose.com/podcasts/roll-for-weird)
 * [RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
 * [Shady Hollow](http://welcometoshadyhollow.com/)
@@ -49,6 +50,7 @@ Audio
 * [Thornvale](https://anchor.fm/thornvale/)
 * [Tumbleson County](https://soundcloud.com/minionworks/sets/troublesome-times-in-tumbleson)
 * [Unexplored Places](https://unexploredcast.tumblr.com/)
+* [Untitled Dice](https://www.untitleddicegame.com/wp/)
 * [Wayward Fans](http://www.thewaywardfans.com/podcasts/?tag=Monster+of+the+Week)
 * [Wilbranch High](https://wilbranchhigh.transistor.fm/) (_Monsterhearts_ in season one, _Monster of the Week_ in season two).
 * [WNRN Presents: Monster of the Week](https://soundcloud.com/wnrn/sets/wnrn-monster-of-the-week)
