@@ -25,6 +25,7 @@ Video
 
 Audio
 -----
+* [$2 Creature Feature](https://2dollarcreature.carrd.co/)
 * [The Adventure Zone](http://www.maximumfun.org/adventure-zone/setup-adventure-zone-amnesty)
 * [A Horror Borealis](http://oneshotpodcast.com/actual-play/a-horror-borealis/)
 * [All My Hexes](https://allmyhexes.simplecast.com/)
@@ -36,9 +37,11 @@ Audio
 * [Monster Hour](https://podcasts.apple.com/us/podcast/monster-hour/id1473549676?fbclid=IwAR3SLdw5BEsat3X8FQgwzORXb2_3iOeaAv7R-x0lg9Y6MtZ57u6735zNmJM)
 * [Myth Takes](https://open.spotify.com/show/5LDvlARiOYzuHwxjHY7DoH)
 * [Out of the Forest](https://anchor.fm/theforestcast)
+* [Roll for Weird](https://www.majesticgoose.com/podcasts/roll-for-weird)
 * [RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
 * [Shady Hollow](http://welcometoshadyhollow.com/)
 * [Staying Weird](https://soundcloud.com/staying-weird/)
+* [The Storyteller Squad](https://thestorytellersquad.captivate.fm)
 * [Strangers in the Pines](https://strangers-in-the-pines.captivate.fm/listen)
 * [Sunday Skypers](http://sunday-skypers.podbean.com/category/monster-of-the-week/)
 * [Table Tales season 1](https://itunes.apple.com/us/podcast/table-tales/id1338113146?mt=2)
@@ -46,6 +49,7 @@ Audio
 * [Tumbleson County](https://soundcloud.com/minionworks/sets/troublesome-times-in-tumbleson)
 * [Unexplored Places](https://unexploredcast.tumblr.com/)
 * [Wayward Fans](http://www.thewaywardfans.com/podcasts/?tag=Monster+of+the+Week)
+* [Wilbranch High](https://wilbranchhigh.transistor.fm/) (_Monsterhearts_ in season one, _Monster of the Week_ in season two).
 * [WNRN Presents: Monster of the Week](https://soundcloud.com/wnrn/sets/wnrn-monster-of-the-week)
 
 Text
