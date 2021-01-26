@@ -22,6 +22,7 @@ Video
 * [Queuetimes](https://queuetimes.com/tag/monster-of-the-week/)
 * In Spanish: [Red Penny Club](https://www.youtube.com/watch?v=XSOSe_ZddhM&list=PLEbrDuHKYV2Rkla3jE7Ib4x9mj-9POgMD)
 * [Scratticus Academy: Last Knights On Earth](https://www.twitch.tv/collections/Hg-a5CbgeRUV4w)
+* TurnTables RPG on [youtube](https://www.youtube.com/channel/UCw0RRx5F1j0334kbgC51qPw) or [twitch](https://www.twitch.tv/turntablesrpg)
 
 Audio
 -----
