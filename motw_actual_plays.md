@@ -12,6 +12,7 @@ If you've got an actual play you would like linked to, please [contact me](mailt
 Video
 -----
 
+* [The Gauntlet: Dresdenverse](https://www.youtube.com/playlist?list=PLjXxFOddyHeAG6wOB6rVMLlo2qIJ8Kyup)
 * [The Gauntlet: Halloween _MotW_](https://youtu.be/QeZv6lQ4H88)
 * In Italian: [GDR unplugged](https://www.youtube.com/playlist?list=PL8v8kar5pSH5ZotZ-Xy8LA558Vt8mAi4C)
 * [HexMachina](https://www.twitch.tv/videos/366179244)
