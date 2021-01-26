@@ -7,11 +7,12 @@ Index of Actual Plays
 ---------------------
 This is a big list of any actual play records that I know about, for those who want to check them out.
 
-If you've got an actual play you would like linked to, please [contact me](mailto: mike@genericgames.co.nz) with a link and I'll add it to the list.
+If you've got an actual play you would like linked to, please [contact me](mailto:mike@genericgames.co.nz) with a link and I'll add it to the list.
 
 Video
 -----
 
+* [Dungeon Dudes](https://www.youtube.com/watch?v=jM1FzXFTB1s&feature=youtu.be)
 * [The Gauntlet: Dresdenverse](https://www.youtube.com/playlist?list=PLjXxFOddyHeAG6wOB6rVMLlo2qIJ8Kyup)
 * [The Gauntlet: Halloween _MotW_](https://youtu.be/QeZv6lQ4H88)
 * In Italian: [GDR unplugged](https://www.youtube.com/playlist?list=PL8v8kar5pSH5ZotZ-Xy8LA558Vt8mAi4C)
