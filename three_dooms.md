@@ -3,10 +3,7 @@ layout: page
 title: Three Dooms
 permalink: /three_dooms/
 ---
-[![Buy Three Dooms at drivethruRPG](/images/bannerbutton-dtrpgexc.gif)](https://www.drivethrurpg.com/product/199119/Three-Dooms)
-
-<img src="/images/three_dooms_logo.png" alt="Three skulls logo" width="150" align="right">Tell the story of a stone age community - one of the first towns ever built.
-
+<img src="/images/three_dooms_logo.png" alt="Three skulls logo" width="150" align="right">
 The omens foretell three great dooms are coming. Can the people of your town
 resist them?
 
@@ -26,5 +23,14 @@ Oracle's mantle.
 as a card deck or print and play PDF, or get the [PDF only at itch.io](https://genericgames.itch.io/three-dooms)
 
 You can find the [handouts](/files/three_dooms_play_sheets.pdf) and [preview](/files/three_dooms_preview.pdf) in the [_Three Dooms_ files area](/files/#three-dooms).
-The rules are part of the card deck, and cover everything you need to play<!--, but
-the purchase additionally includes a PDF with extra advice and explanations-->.
+The rules are included in the card deck, and cover everything you need to play.
+
+Tell the story of a stone age community - one of the first towns ever built.
+
+Available from:
+
+[![Buy Three Dooms at drivethruRPG](/images/dtrpg-logo-245.png)](https://www.drivethrurpg.com/product/199119/Three-Dooms)
+
+and
+
+<iframe src="https://itch.io/embed/459792?linkback=true" width="552" height="167" frameborder="0"><a href="https://genericgames.itch.io/three-dooms">Three Dooms by Generic Games</a></iframe>

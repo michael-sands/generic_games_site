@@ -5,8 +5,7 @@ permalink: /heavy_metal_aeons/
 ---
 Heavy metal inspired science-fantasy adventures.
 
-Currently in development, you can [get the current playtest document](https://drive.google.com/open?id=0B5pV27F3R0veOFRZVm1MX21EamM) if you would
-like to read it and maybe try it out. There's also a [play reference and handouts document](https://drive.google.com/open?id=0B5pV27F3R0veQjU0UkI2dUdya28).
+Currently in development, you can [look at a very old and obsolete playtest document](https://drive.google.com/open?id=0B5pV27F3R0veOFRZVm1MX21EamM) and a [play reference and handouts document](https://drive.google.com/open?id=0B5pV27F3R0veQjU0UkI2dUdya28). I'm working on an updated and revised quickstart which should be up soon.
 
 Character archetypes have been illustrated by Juan Ochoa. Here's the Astronaut,
 trying to work out what filthy planet he's washed up on.
