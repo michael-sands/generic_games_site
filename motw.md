@@ -55,7 +55,10 @@ _The Meddling Kids In: Too Many Draculas!_ [on itch.io](https://genericgames.itc
 
 _Zombiefest Double Feature_ [on itch.io](https://genericgames.itch.io/zombiefest-double-feature) or [on drivethruRPG](https://www.drivethrurpg.com/product/287048/Zombiefest-Double-Feature) contains two  mysteries dealing with undead unpleasantness during a metal festival. 
 
+There's a [_Monster of the Week_ category on drivethruRPG](https://www.drivethrurpg.com/browse.php?filters=100050_0_0_0_0_0&src=fid100050) where you can find all kinds of neat stuff.
+
 Marek Golonka has written some [mysteries that you can find on DriveThruRPG](https://www.drivethrurpg.com/browse.php?keywords=monster+of+the+week+marek+golonka).
+
 
 Other Languages
 ---------------
