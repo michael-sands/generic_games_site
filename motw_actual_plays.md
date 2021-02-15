@@ -17,6 +17,7 @@ Video
 * [The Gauntlet: Halloween _MotW_](https://youtu.be/QeZv6lQ4H88)
 * In Italian: [GDR unplugged](https://www.youtube.com/playlist?list=PL8v8kar5pSH5ZotZ-Xy8LA558Vt8mAi4C)
 * [HexMachina](https://www.twitch.tv/videos/366179244)
+* [Historical Mystoricals](https://www.youtube.com/playlist?list=PLscJgE_X-QRZvF7C8duoDHh_N4lIwGOiz)
 * [IGoA East Texas University](https://www.youtube.com/watch?v=A-d1UZY-8Z0&list=PLccARXndpwfg-15iNdN2wU0atyh4ZNyH8)
 * [Interpol X](http://happyjacks.org/interpolx)
 * [KFRR](https://www.youtube.com/watch?v=aRLtHNHUsIU)

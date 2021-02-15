@@ -5,8 +5,6 @@ permalink: /natural_philosophers/
 ---
 <img src="/images/natural_philosophers_cover.png" alt="Three skulls logo" width="150" align="right">
 
-EARLY ACCESS GAME: Still in development, and if you purchase it now you'll get all the updates.
-
 This is a non-violent, creative game in which you will imagine what an expedition of natural philosophers discover in an entirely new world. 
 
 You'll fill up a notebook with observations, inspired by a range of random tables, to build the world you explore.
@@ -19,4 +17,6 @@ Available from:
 
 and
 
-[![Buy The Natural Philosophers at drivethruRPG](/images/dtrpg-logo-245.png)](https://www.drivethrurpg.com/product/297914/The-Natural-Philosophers) 
+[![Buy The Natural Philosophers at drivethruRPG](/images/dtrpg-logo-245.png)](https://www.drivethrurpg.com/product/297914/The-Natural-Philosophers)
+
+This is an EARLY ACCESS GAME and still in development.
