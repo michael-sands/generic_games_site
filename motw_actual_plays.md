@@ -49,6 +49,7 @@ Audio
 * [Myth Takes](https://open.spotify.com/show/5LDvlARiOYzuHwxjHY7DoH)
 * [Out of the Forest](https://anchor.fm/theforestcast)
 * [Railsend Mysteries](https://anchor.fm/railsend-mysteries)
+* [Redgate & Wolf](https://redgateandwolf.com/wp/)
 * [Roll for Weird](https://www.majesticgoose.com/podcasts/roll-for-weird)
 * [Roll Players](https://roll-players.pinecast.co/) play _Monster of the Week_ and other games
 * [RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
