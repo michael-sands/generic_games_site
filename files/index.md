@@ -3,9 +3,9 @@ layout: page
 title: Files
 permalink: /files/
 ---
-## Heavy Metal Æons
+## Heavy Metal Aeons
 
-* [_Heavy Metal Æons_ current playtest draft](https://drive.google.com/open?id=0B5pV27F3R0veOFRZVm1MX21EamM).
+* [_Heavy Metal Aeons_ old playtest draft](https://drive.google.com/open?id=0B5pV27F3R0veOFRZVm1MX21EamM).
 
 ## Monster of the Week
 

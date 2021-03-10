@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Heavy Metal Æons
+title: Heavy Metal Aeons
 permalink: /heavy_metal_aeons/
 ---
 Heavy metal inspired science-fantasy adventures.
