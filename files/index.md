@@ -5,7 +5,7 @@ permalink: /files/
 ---
 ## Heavy Metal Aeons
 
-* [_Heavy Metal Aeons_ old playtest draft](https://drive.google.com/open?id=0B5pV27F3R0veOFRZVm1MX21EamM).
+* [_Heavy Metal Aeons_ hero playsheets](Heavy-Metal-Aeons-hero-playsheets.zip)
 
 ## Monster of the Week
 

@@ -5,7 +5,7 @@ permalink: /heavy_metal_aeons/
 ---
 Heavy metal inspired science-fantasy adventures.
 
-Currently in development, you can [look at a very old and obsolete playtest document](https://drive.google.com/open?id=0B5pV27F3R0veOFRZVm1MX21EamM) and a [play reference and handouts document](https://drive.google.com/open?id=0B5pV27F3R0veQjU0UkI2dUdya28). I'm working on an updated and revised quickstart which should be up soon.
+Currently in early access. You can [get into the early access at itch.io](https://genericgames.itch.io/heavy-metal-aeons) or [drivethruRPG](https://www.drivethrurpg.com/product/350506/Heavy-Metal-Aeons). The game is complete and ready to play, but the challenge levels likely still need some tweaks.
 
 Character archetypes have been illustrated by Juan Ochoa. Here's the Astronaut,
 trying to work out what filthy planet he's washed up on.
