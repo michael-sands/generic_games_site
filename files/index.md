@@ -24,7 +24,8 @@ permalink: /files/
   playbooks.
 * [More Weirdness](MotW_more_weirdness.pdf).
   Adjustments to run a game focused on investigating weird phenomena more than
-  hunting down evil monsters.
+  hunting down evil monsters. (This was updated for inclusion in the Tome of Mysteries).
+* A blank hunter playbook template, as InDesign [.indd](MotW_hunter_playbook_template.indd) or [.idml](MotW_hunter_playbook_template.idml) or Affinity Publisher [.afpub](MotW_hunter_playbook_template.afpub). Use these if you'd like to make a custom playbook match the official look.
 
 ## Three Dooms
 
