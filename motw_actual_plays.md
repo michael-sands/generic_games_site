@@ -38,6 +38,7 @@ Audio
 * [All My Hexes](https://allmyhexes.simplecast.com/)
 * [The Crit Show](https://thecritshowpodcast.com/)
 * [Dice & Clic](https://diceandclic.fr/series/monster-of-the-week/) in French/en français
+* [Eden's Grove](https://open.spotify.com/episode/25fhwBimjNsn8WBQJzYeD8)
 * [Expeditions of the Extranormal](https://theumbraltheater.podbean.com/)
 * [The Group Project](https://thegroupproject.com/)
 * [Lost Library](https://itunes.apple.com/us/podcast/the-lost-library/id1358744382)
