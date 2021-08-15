@@ -116,6 +116,7 @@ Errata (revised edition)
 * **Crooked weapons** (page 39): The submachinegun and assault rifle should have "area" tags, not "auto."
 * **Hold example** (page 100): The example mentions gaining 3 hold from an **investigate a mystery** result, which is not normally possible. 
 * **Dice roll example** (page 99): There's a typo in the example. 1 + 2 + 5 is 8, not 9. Still a partial success in the example.
+* **Before You Get Started/Moves** (page 25): Final section, typo. Should be "...it will tell you what to do next."
 
 Errata (first edition)
 ----------------------
