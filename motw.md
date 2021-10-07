@@ -41,6 +41,10 @@ Available now! [Tome of Mysteries at Evil Hat Productions](https://www.evilhat.c
 
 [More info](/tome_of_mysteries).
 
+Merch
+-----
+[Shirts etc are available at my Redbubble store](https://www.redbubble.com/people/genericgames/shop)
+
 More Stuff!
 --------------------
 If you want to talk about stuff, check out the [Monster of the Week Roadhouse MeWe community](https://mewe.com/join/monster_of_the_week_roadhouse), the [Monster of the Week subreddit](https://www.reddit.com/r/monsteroftheweek/), or the [Monster of the Week forum](http://apocalypse-world.com/forums/index.php?board=33.0) at apocalypse-world.com.
