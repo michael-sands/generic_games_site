@@ -46,6 +46,7 @@ Audio
 * [Memester of the Week](https://anchor.fm/jason-myers39)
 * [Monsters & Microphones](https://anchor.fm/monstersandmicrophones)
 * [Monster Hour](https://podcasts.apple.com/us/podcast/monster-hour/id1473549676?fbclid=IwAR3SLdw5BEsat3X8FQgwzORXb2_3iOeaAv7R-x0lg9Y6MtZ57u6735zNmJM)
+* [The Monster's Playbook](https://monstersplaybook.com/)
 * [Mystery County Monster Hunters Club](https://mysterycountymonsterhuntersclub.podbean.com/)
 * [Myth Takes](https://open.spotify.com/show/5LDvlARiOYzuHwxjHY7DoH)
 * [The Neighbourhood Watch](https://anchor.fm/neighbourhoodwatchuk)
