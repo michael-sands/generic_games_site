@@ -4,7 +4,7 @@ title:  "Games Played in 2021"
 date:   "2021-12-31 07:00:00 +13:00"
 categories: update
 ---
-Here's my list of games (by which I mean roleplaying games here) played in 2021, along with some thoughts on each one. Most of the variety came from my games at Kapcon 2021, which we were lucky enough to have go ahead in person (the 2022 event has sadly been cancelled). 
+Here's my list of games (here meaning roleplaying games) played in 2021, along with some thoughts on each one. Most of the variety came from my games at Kapcon 2021, which we were lucky enough to have go ahead in person (the 2022 event has sadly been cancelled). 
 Total roleplaying session count was 33, compared to 54 in 2020.
 
 [**Heavy Metal Aeons**](https://genericgames.itch.io/heavy-metal-aeons)
