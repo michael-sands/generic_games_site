@@ -12,6 +12,7 @@ If you've got an actual play you would like linked to, please [contact me](mailt
 Video
 -----
 
+* [The Andersonverse](https://www.youtube.com/playlist?list=PL4IScHuOGRjbAAksqHMKbVa7cb5MIye1m)
 * [Dungeon Dudes](https://www.youtube.com/watch?v=jM1FzXFTB1s&feature=youtu.be)
 * [The Gauntlet: Dresdenverse](https://www.youtube.com/playlist?list=PLjXxFOddyHeAG6wOB6rVMLlo2qIJ8Kyup)
 * [The Gauntlet: Halloween _MotW_](https://youtu.be/QeZv6lQ4H88)
@@ -36,6 +37,7 @@ Audio
 * [The Adventure Zone](http://www.maximumfun.org/adventure-zone/setup-adventure-zone-amnesty)
 * [A Horror Borealis](http://oneshotpodcast.com/actual-play/a-horror-borealis/)
 * [All My Hexes](https://allmyhexes.simplecast.com/)
+* [The Capewick Cassettes](https://open.spotify.com/show/0fkBUtShlGDvTdvVnZhI7Q?si=Sr71jGM7Qs-vBk8nKTV7hA&utm_source=copy-link&nd=1)
 * [The Crit Show](https://thecritshowpodcast.com/)
 * [Dice & Clic](https://diceandclic.fr/series/monster-of-the-week/) in French/en français
 * [Eden's Grove](https://open.spotify.com/episode/25fhwBimjNsn8WBQJzYeD8)
@@ -53,7 +55,7 @@ Audio
 * [Out of the Forest](https://anchor.fm/theforestcast)
 * [Railsend Mysteries](https://anchor.fm/railsend-mysteries)
 * [Redgate & Wolf](https://redgateandwolf.com/wp/)
-* [Roll for Weird](https://www.majesticgoose.com/podcasts/roll-for-weird)
+* [Roll for Weird](https://www.majesticgoose.com/roll-for-weird)
 * [Roll Players](https://roll-players.pinecast.co/) play _Monster of the Week_ and other games
 * [RPPR](http://actualplay.roleplayingpublicradio.com/category/systems/powered-by-the-apocalypse/monster-of-the-week/)
 * [Shady Hollow](http://welcometoshadyhollow.com/)
