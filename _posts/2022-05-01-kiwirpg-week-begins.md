@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "#kiwiRPG Week Begins!"
-date:   "2022-04-01 09:00:00 +12:00"
-categories: kiwiRPG
+date:   "2022-05-01 09:00:00 +12:00"
+categories: update
 ---
 Welcome to #kiwiRPG week!
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "XGE13 Mini Preview Edition Release"
-date:   "2022-04-02 09:00:00 +12:00"
-categories: kiwiRPG XGE13 release
+date:   "2022-05-02 09:00:00 +12:00"
+categories: update
 --- 
 I have a (small) new game release for #kiwiRPG week! Let me introduce _Xenogate Expedition 13 Mini Preview edition_.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Codex of Worlds Announcement"
 date:   "2022-05-04 09:00:00 +12:00"
-categories: kiwiRPG MotW news CoW
+categories: update
 --- 
 It's time for some new _Monster of the Week_ stuff! Let me announce the _Codex of Worlds_ is coming soon.
 
