@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Codex of Worlds Announcement"
-date:   "2022-05-04 09:00:00 +12:00"
+date:   "2022-05-04 07:45:00 +12:00"
 categories: update
 --- 
-It's time for some new _Monster of the Week_ stuff! Let me announce the _Codex of Worlds_ is coming soon.
+It's time for some new _Monster of the Week_ stuff! [#kiwiRPG week](https://www.kiwirpg.com/info/) seemed like a great occasion to announce: 
+
+The _Codex of Worlds_ is coming soon.
 
 ![Codex of Worlds cover inset](/images/MOTW-Codex-of-Worlds-cover-tease.jpg)
 
@@ -15,10 +17,10 @@ Inside you'll find:
 * Setting frameworks that provide a whole different starting point to your game. These range from those that only alter the contemporary setting a little to whole new worlds with totally new monsters and problems.
 * New rules to support the new material, which can be applied to any _Monster of the Week_ game if you want to spice things up.
 
-We're still in the middle of development, so there's no release date yet and plenty more work to do. 
+We're still in the middle of development, so there's no release date yet and plenty more work to do. "Coming soon" is as specific as we can be.
 
-But sometime soon, you'll have the chance to open the _Codex of Worlds_.
+But soon you'll have the chance to open the _Codex of Worlds_.
 
-Better be ready for new monsters, and new realms.
+Get ready for new monsters, and new realms.
 
 Good hunting!
