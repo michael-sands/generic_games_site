@@ -55,6 +55,8 @@ You can get extra monster hunter playbooks as a pay-what-you-want bundle [on itc
 
 The Spooktacular hunter playbook is a seperate purchase, also available on [itch.io](https://genericgames.itch.io/the-spooktacular) or [drivethruRPG](https://www.drivethrurpg.com/product/319973/The-Spooktacular).
 
+I have free mini-supplements covering [Ally Moves](/files/ally_moves_v0_1_2022_05_23.pdf) and [Transportation options](/files/transportation_options_v0_1_2022_06_01.pdf).
+
 _The Meddling Kids In: Too Many Draculas!_ [on itch.io](https://genericgames.itch.io/the-meddling-kids-in-too-many-draculas) or [on drivethruRPG](http://drivethrurpg.com/product/141243/The-Meddling-Kids-In-Too-Many-Draculas?affiliate_id=44653) which is a comedy mystery suited to a one-shot game or as a "comedy episode" in an ongoing game.
 
 _Zombiefest Double Feature_ [on itch.io](https://genericgames.itch.io/zombiefest-double-feature) or [on drivethruRPG](https://www.drivethrurpg.com/product/287048/Zombiefest-Double-Feature) contains two  mysteries dealing with undead unpleasantness during a metal festival. 
