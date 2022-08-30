@@ -24,6 +24,7 @@ Video
 * [KFRR](https://www.youtube.com/watch?v=aRLtHNHUsIU)
 * [Luke Green's games](https://www.youtube.com/playlist?list=PL_1EpyP6ogbDitZ5Zep55PLeErcyD2K5b)
 * [Queuetimes](https://queuetimes.com/tag/monster-of-the-week/)
+* [Raven's Realm](https://www.youtube.com/watch?v=rkX_OUZZ-cI)
 * In Spanish: [Red Penny Club](https://www.youtube.com/watch?v=XSOSe_ZddhM&list=PLEbrDuHKYV2Rkla3jE7Ib4x9mj-9POgMD)
 * Routes Unknown on [twitch](http://twitch.tv/rpghour) or [youtube](https://www.youtube.com/playlist?list=PLfDpb99CuxKUGgRzLxvJWGfytmTqZ_0jg).
 * [Scratticus Academy: Last Knights On Earth](https://www.twitch.tv/collections/Hg-a5CbgeRUV4w)
