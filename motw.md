@@ -68,9 +68,21 @@ Marek Golonka has written some [mysteries that you can find on DriveThruRPG](htt
 
 Other Languages
 ---------------
-Portuguese: by Luiz Borges [_Monstro da Semana_](https://monstrodasemana.wordpress.com/).
 
-Italian: by Narrativa: [_Il Mostro della Settimana_](http://www.narrattiva.it/giochi/il-mostro-della-settimana).
+Portuguese: by Luiz Borges [_Monstro da Semana_](https://monstrodasemana.wordpress.com/)
+
+An Italian edition by Narrativa _Il Mostro della Settimana_ is no longer in print.
+
+French: by Studio Deadcrows [_Monster of the Week_](https://www.deadcrows.net/index.php/studio-deadcrows/monster-of-the-week/)
+
+Spanish: by Cursed Ink [_Monster of the Week_](https://www.cursedink.es/tienda/monster-of-the-week/)
+
+Polish: by Gramel [_Potwór Tygodnia_](https://wydawnictwogramel.pl/our-games-2/powered-by-the-apocalypse/potwor-tygodnia/)
+
+Catalan: by MaquiEdicions [_El monstre de la setmana_](https://blog.maqui-ed.com/p/el-monstre-de-la-setmana.html)
+
+German: [fan-translated play materials](https://drive.google.com/file/d/1ccZ9PEOgcdfSpQUFTPzUSZ5OXSr0nyUl/view?usp=share_link)
+
 
 Reviews
 -------
@@ -93,14 +105,6 @@ Actual Play & Streams
 
 [Actual Play Reports](/motw_actual_plays)
 
-
-In Italian:
------------
-
-[Riassunto dei post dell'Ufficio Stranezze](http://elementifiniti.blogspot.it/2013/07/riassunto-dei-post-dellufficio-stranezze.html)
-[Review](http://gdroggi.blogspot.it/2012/08/recensione-monster-of-week.html)
-[Lake Charles, Louisiana actual play report](http://www.gentechegioca.it/smf/index.php/topic,7867.0.html)
-
 FAQ
 ---
 
@@ -110,7 +114,7 @@ FAQ
 
 * Q: Where can I get a copy of the handouts?
 
-  A: Hit "Files" on the menu above.
+  A: In the [_files_ section](/files/).
 
 
 Errata (revised edition)
